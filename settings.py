@@ -6,3 +6,4 @@ load_dotenv()
 
 DISCORD_API_SECRET = os.getenv("DISCORD_API_TOKEN")
 
+print('hello world')
